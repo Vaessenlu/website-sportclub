@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sportclub Pforzheim Logo">
+  <defs>
+    <linearGradient id="shield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6c400"/>
+      <stop offset="100%" stop-color="#ffd84d"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="28" fill="#0b0b0b"/>
+  <path d="M40 40h120v72c0 32-26 58-58 58h-4c-32 0-58-26-58-58V40z" fill="url(#shield)" stroke="#0b0b0b" stroke-width="8"/>
+  <path d="M68 68h64v14H68zm0 32h64v14H68zm0 32h36v14H68z" fill="#0b0b0b"/>
+  <circle cx="152" cy="152" r="18" fill="#0b0b0b" stroke="#ffd84d" stroke-width="6"/>
+  <path d="M152 140v24m-12-12h24" stroke="#ffd84d" stroke-width="6" stroke-linecap="round"/>
+</svg>
